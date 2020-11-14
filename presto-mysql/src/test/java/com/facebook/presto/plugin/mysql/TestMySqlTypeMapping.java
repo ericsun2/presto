@@ -16,7 +16,6 @@ package com.facebook.presto.plugin.mysql;
 import com.facebook.presto.Session;
 import com.facebook.presto.common.type.TimeZoneKey;
 import com.facebook.presto.common.type.VarcharType;
-import com.facebook.presto.testing.mysql.MySqlOptions;
 import com.facebook.presto.testing.mysql.TestingMySqlServer;
 import com.facebook.presto.tests.AbstractTestQueryFramework;
 import com.facebook.presto.tests.datatype.CreateAndInsertDataSetup;
